@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 | Working on: The Hub and The Hub Systems<br>🫱🏻‍🫲🏼 | Working with @Mandi040<br>🪴 | learning: Java, Swift and Go<br>📚 | Languages: Python, JavaScript, HTML, CSS, TypeScript, React
+🔭 | Working on: The Hub and The Hub Systems<br>🫱🏻‍🫲🏼 | Working with @Mandi040<br>🪴 | learning: Java, Swift and Go<br>📚 | Languages: Python, JavaScript, HTML, CSS, TypeScript, React, PHP
 
 
 ## 🌐 Socials:
